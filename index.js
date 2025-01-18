@@ -109,3 +109,4 @@ module.exports = {
      avg_temperature_in_fahrenheit,
      avg_temperature_in_celsius
 };
+
